@@ -55,6 +55,8 @@
    <label for="username">Name:</label>
    <input type="text" id="username" name="username" required>
    <label>Gender:</label>
+    <input type="text" id="text" name="text" required>
+   <label>Comments</label>
    <input type="radio" id="male" name="gender" value="Male" required>
    <label for="male">Male</label>
    <input type="radio" id="female" name="gender" value="Female">
