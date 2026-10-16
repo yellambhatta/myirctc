@@ -57,6 +57,8 @@
    <label>Gender:</label>
     <input type="text" id="text" name="text" required>
    <label>Comments</label>
+   <input type="text" id="text" name="text" required>
+   <label>Passport</label>
    <input type="radio" id="male" name="gender" value="Male" required>
    <label for="male">Male</label>
    <input type="radio" id="female" name="gender" value="Female">
